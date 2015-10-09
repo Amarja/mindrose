@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Mindrose</title>
+
+    <!-- css -->
+    <link href="css/all-beta.min.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+
+    <!-- favicon -->
+    <link rel="icon" href="images/favicon.ico">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+
+</head>
+<body id="body">
+
+<!--#include virtual="inc-header.shtml" -->
+
+<section class="home-content">
+    <div class="first-wrapper">
+        <div class="box-caption">
+            <h1>Mindrose helps companies activate the power of joy
+                in organizations through it's ReJoy framework.</h1>
+
+            <!--<p>ReJoy is a people-centric framework built to tap into the creative potential of your team. It is rooted in-->
+            <!--neurology, sociology and spiritual concepts that truly and deeply motivate to drive us as humans. It acts-->
+            <!--like Holistic-->
+            <!--Yoga for your complete organization and helps to create outstanding results for all.</p>-->
+
+        </div>
+        <div class="video-wrapper">
+            <iframe width="750" height="433" src="https://www.youtube.com/embed/VdVvmVG3zJk?rel=0" frameborder="0" allowfullscreen></iframe>
+
+        </div>
+        <!--<div class="scroll-img">-->
+            <!--<img src="images/scroll.png" alt=""/>-->
+        <!--</div>-->
+
+    </div>
+
+
+
+</div>
+    <div class="cp-main-content" style="margin-top: 390px;">
+        <div class="cp-timeline col-sm-12">
+            <div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 col-xs-12 no-pad-left-right">
+                <!--<div class="tl-blob-special hidden-xs hidden-768 hide" style="left: 670.15625px;"></div>-->
+                <div class="col-md-12 col-sm-12 col-xs-12 cp-work">
+                    <h3>PRINCIPLES OF REJOY MODEL</h3>
+                </div>
+                <div class="col-sm-12 cptl-row row artist in" id="ar1">
+                    <div class="col-md-6 col-sm-4 col-xs-12 tl-left tl-empty tl-box  t1b1">
+                        <img class="animated"
+                             src="images/meaningful-engagement.png" alt="img">
+                    </div>
+                    <div class="col-md-6 col-sm-8 col-xs-12 tl-right tl-box">
+                        <div class="tl-blob hidden-xs hidden-sm"></div>
+                        <h4 class="animated">Create Meaningful Engagement</h4>
+
+                        <p class="animated">Day-to-day work can get monotonous and tedious, hence we need to connect with something more inspirational and constructive, to drive undying interest. So instead of excessive focus on driving numbers, we inspire with vision, guide by values and manage by goals.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="col-sm-12 cptl-row row artist in" id="ar2">
+                    <div class="col-md-6 col-sm-4 col-xs-12 tl-right tl-empty tl-box visible-xs">
+                        <img class="animated"
+                             src="images/empower-self-growth.png" alt="img">
+                    </div>
+                    <div class="col-md-6 col-sm-8 col-xs-12 tl-left tl-box t2b2">
+                        <div class="tl-blob hidden-xs hidden-sm"></div>
+                        <h4 class="animated">Empower Self Growth
+                        </h4>
+
+                        <p class="animated">Don't put employees in a pre-defined box.  Let them create their own path and grow.  People are motivated the most when they are in-charge of their own growth and can manage it proactively.
+                        </p>
+                    </div>
+                    <div class="col-md-6 col-sm-4 col-xs-12 tl-right tl-empty tl-box hidden-xs">
+                        <img class="animated1" src="images/empower-self-growth.png" alt="img">
+                    </div>
+                </div>
+
+                <div class="col-sm-12 cptl-row row artist in" id="ar3">
+                    <div class="col-md-6 col-sm-4 col-xs-12 tl-left tl-empty tl-box t3b3">
+                        <img class="animated2"
+                             src="images/motivate-spa.png" alt="img">
+                    </div>
+                    <div class="col-md-6 col-sm-8 col-xs-12 tl-right tl-box ">
+                        <div class="tl-blob hidden-xs hidden-sm"></div>
+                        <h4 class="animated">Motivate with Spontaneous Peer
+                            Appreciation
+                        </h4>
+
+                        <p class="animated">Create a culture of mutual appreciation, trust and support for a  highly motivated and joyous work environment.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="col-sm-12 cptl-row row artist in" id="ar4">
+                    <div class="col-md-6 col-sm-4 col-xs-12 tl-right tl-empty tl-box visible-xs">
+                        <img class="animated3"
+                             src="images/develop-ffc.png" alt="img">
+                    </div>
+                    <div class="col-md-6 col-sm-8 col-xs-12 tl-left tl-box t4b4">
+                        <div class="tl-blob hidden-xs hidden-sm"></div>
+                        <h4 class="animated">Develop with frequent Feedback
+                            and Coaching</h4>
+
+                        <p class="animated">Help people learn and grow through constant feedback and coaching support. Make coaching as important as any project or client management activity. Promote employees on the basis of coaching and leadership skills, not just technical skills.
+                        </p>
+                    </div>
+                    <div class="col-md-6 col-sm-4 col-xs-12 tl-right tl-empty tl-box hidden-xs">
+                        <img class="animated3"
+                             src="images/develop-ffc.png" alt="img">
+                    </div>
+                </div>
+
+                <div class="col-sm-12 cptl-row row artist in lst-row" id="ar5">
+                    <div class="col-md-6 col-sm-4 col-xs-12 tl-left tl-empty tl-box tl-noline">
+                        <img class="animated4"
+                             src="images/datv.png" alt="img">
+                    </div>
+                    <div class="col-md-6 col-sm-8 col-xs-12 tl-right tl-box t5b5">
+                        <div class="tl-blob hidden-xs hidden-sm"></div>
+                        <h4 class="animated">Drive Accountability through
+                            Transparency and Visibility</h4>
+
+                        <p class="animated">Share goals and business achievements more liberally to motivate better results. Share
+                            information with employees to include and engage them, not just to inform them about ongoing company activities.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+    </div>
+</section>
+<!--#include virtual="inc-footer.shtml" -->
+
+<!-- JS -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<!--<script src="js/lib-all-beta.min.js"></script>-->
+<script src="js/script.js"></script>
+
+
+<!--<script>-->
+    <!--$(document).ready(function() {-->
+
+        <!--$(".navbar-toggle").click(function () {-->
+            <!--$('#body').addClass('current');-->
+
+        <!--});-->
+
+        <!--$(".icon-icon_alert_close").click(function () {-->
+            <!--$('#body').removeClass('current');-->
+        <!--});-->
+
+    <!--});-->
+
+<!--</script>-->
+</body>
+</html>

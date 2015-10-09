@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>Mindrose</title>
+
+    <!-- Bootstrap -->
+    <link href="css/style.css" rel="stylesheet">
+
+    <!-- favicon -->
+    <link rel="icon" href="images/favicon.ico">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <script type="text/javascript">
+        var activeMenu = '.nav-sixth';
+        var switchTo5x=true;
+    </script>
+</head>
+<body id="body">
+
+<!--#include virtual="inc-header.shtml" -->
+<section class="about-us-content">
+    <div class="content-wrapper clearfix">
+        <div class="image-wrapper col-sm-7 col-md-6 hidden-xs">
+                <img src="images/about-us.png" alt="about_us" class="img-responsive">
+        </div>
+        <div class="content col-xs-12 col-sm-5 col-md-6">
+                <!--<h1>About Mindrose</h1>-->
+                <p class="quote">
+                Mindrose is a consulting firm that focuses on Igniting
+                Individual potential in organizations through tapping
+                core human sources of motivation.
+                </p>
+                <p>
+                We help companies shift from industrial era practices of command and control, rewards and recognition, and performance management to practices that are organized around igniting each individual's potential.
+                </p>
+                <p>
+                What we unleash is nothing short of magic.  Magic because it unleashes higher talents that come from the heart of the individual rather than the base compliance motivated output.
+                </p>
+                <p>
+                Our methodology stems from and is grounded in neuroscience and social nature of humans.  We unleash the power of a clear vision synergized by aligned values. We believe that motivation in your team can really only be driven by intrinsic factors of Autonomy, Mastery and Contribution - all of it activated and nurtured by a culture of connectedness at work.
+                </p>
+
+
+        </div>
+    </div>
+</section>
+
+<!--#include virtual="inc-footer.shtml" -->
+
+<!-- JS -->
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="js/bootstrap.min.js"></script>
+<script src="js/script.js"></script>
+</body>
+</html>

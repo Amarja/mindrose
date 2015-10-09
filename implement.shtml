@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Mindrose</title>
+
+    <!-- css -->
+    <link href="css/style.css" rel="stylesheet">
+
+    <!-- favicon -->
+    <link rel="icon" href="images/favicon.ico">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <script type="text/javascript">
+        var activeMenu = '.nav-second';
+        var switchTo5x=true;
+    </script>
+</head>
+<body id="body">
+
+<!--#include virtual="inc-header.shtml" -->
+
+<section class="inside-content box-implement-wrapper">
+    <div class="banner-wrapper box2">
+        <div class="container">
+            <div class="box-caption">
+                <h1>explore & implement</h1>
+
+                <p>Before any transformation can be started, it is important to understand where you are as an organization, what would work for you and how you would chart the course.</p>
+            </div>
+        </div>
+
+    </div>
+    <div class="caption-wrapper">
+        Mindrose's core focus is putting people related processes at the
+        core of the positive transformation. To chart the course,
+        we work with clients through these broad stages:
+
+    </div>
+    <div class="box-stages">
+        <ul class="list-inline">
+            <li>
+                <img src="images/cgrp.png" alt=""/>
+                <span>Conceptual Grounding
+on ReJoy Principles</span>
+            </li>
+            <li><img src="images/cevv.png" alt=""/>
+                <span>Creating Empowering
+Vision and Values</span></li>
+            <li><img src="images/ees.png" alt=""/>
+                <span>Employee Engagement
+Strategy</span></li>
+            <li><img src="images/spr.png" alt=""/>
+                <span>System and Processes
+Rewiring</span></li>
+        </ul>
+    </div>
+
+    <div class="box-content">
+        <div class="container">
+
+
+            <div class="media-wrap">
+                <div class="col-sm-offset-2 col-xs-12 col-sm-4 col-md-3 img-wrap">
+                    <img src="images/primer.png" alt=""/>
+                </div>
+                <div class=" col-xs-12 col-sm-6 col-md-7 content-wrap culture-wrap">
+                    <h2>
+                        Primer - Explore the ReJoy fundamentals
+                        with your executive team
+
+                    </h2>
+
+                    <p>Choosing to make a huge shift requires complete exploration of our beliefs and reflection on our experiences.  The one-day ReJoy CXO retreat is designed specifically for that.</p>
+                    <p>The ReJoy CXO Retreat explores “What really motivates and makes people creative (not just mechanically productive)” and allows your CXO team to immerse in these new ideas, question them, explore their anxieties and doubts to build a shared commitment onto a new path.</p>
+                </div>
+
+            </div>
+
+            <div class="media-wrap">
+                <div class="col-xs-12 col-sm-4 col-md-4 img-wrap visible-xs">
+                    <img src="images/discovery-roadmap.png" alt=""/>
+                </div>
+                <div class="col-sm-offset-2 col-xs-12 col-sm-6 col-md-6 content-wrap">
+                    <h2>
+                        Discovery and Roadmap
+                    </h2>
+
+                    <p>Once your executive team chooses the path of Rejoy, we work with you to understand your organizations current state and articulate a desired state including:</p>
+                    <ul class="list-unstyled">
+                        <li> A transition plan and sequence of key activities for rolling out the ReJoy
+                            framework.</li>
+                        <li>  Estimate the time, energy and commitment needed to implement
+                            change.</li>
+                        <li>    Identify the "Igniters" who are highly motivated and who will help bring
+                            this new approach to life.</li>
+
+                    </ul>
+                </div>
+                <div class="col-xs-12 col-sm-4 col-md-4 img-wrap hidden-xs roadmap">
+                    <img src="images/discovery-roadmap.png" alt=""/>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="box-bottom">
+        <div class="container">
+            <h1>​To have any successful change the roadmap has to include the following:</h1>
+            <div class="box-success-change">
+                <ul class="list-inline">
+                    <li class="box-awake">
+                        <img src="images/awaken.png" alt=""/>
+                        <span>AWAKEN</span>
+                        <div class="arrow_box arrow_box_awaken" id="awake-wrap">
+                            Most organizations change in programs fail because people don’t see or understand the need for change. They say a good beginning is half the work done while we feel that "awareness" is half the work done. Without acceptance and awakening at all levels, even the best programs will fail to produce any results.
+                        </div>
+                    </li>
+                    <li class="box-nurture">
+                        <img src="images/nurture.png" alt=""/><span>NURTURE</span>
+                        <div class="arrow_box arrow_box_nature">
+                            Once the leadership, coaches and team members are awakened to a new level of possibility, they need to be supported with the right skills, processes and operational tools to achieve that level of result. This skill may be a leadership, coaching or communication skill, teamwork, creativity and innovation related. A plan has to be created for each level of the organization for a successful transformation.
+                        </div>
+                    </li>
+                    <li class="box-sustain"><img src="images/sustain.png" alt=""/><span>SUSTAIN</span>
+                        <div class="arrow_box arrow_box_sustain">
+                            Conducting training is not enough. To make any change permanent, it is important that all organizational processes and behaviors are aligned to the new way of operating. The new way of being has to be wired into the new processes around people or else the old processes will pull us back.
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="img-wrap">
+            <img src="images/implement-img.jpg" class="img-responsive" alt=""/>
+        </div>
+    </div>
+</section>
+<!--#include virtual="inc-footer.shtml" -->
+
+<!-- JS -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/script.js"></script>
+</body>
+</html>

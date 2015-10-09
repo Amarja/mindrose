@@ -1,0 +1,305 @@
+
+
+
+
+<!--<!DOCTYPE html>-->
+<!--<html>-->
+<!--<head lang="en">-->
+    <!--<meta charset="UTF-8">-->
+    <!--<title></title>-->
+<!--</head>-->
+<!--<body>-->
+<!--<form method="POST" name="contactform" action="try.php" >-->
+    <!--<p>-->
+        <!--<label for='name'>Your Name:</label>-->
+        <!--<br>-->
+        <!--<input type="text" name="name">-->
+    <!--</p>-->
+    <!--<p>-->
+        <!--<label for='email'>Email Address:</label>-->
+        <!--<br>-->
+        <!--<input type="text" name="email">-->
+        <!--<br>-->
+    <!--</p>-->
+    <!--<p>-->
+        <!--<label for='message'>Message:</label>-->
+        <!--<br>-->
+        <!--<textarea name="message"></textarea>-->
+    <!--</p>-->
+    <!--<input type="submit" value="Submit">-->
+    <!--<br>-->
+<!--</form>-->
+<!--</body>-->
+<!--</html>-->
+
+
+
+
+
+<!--<html>-->
+<!--<head><title>Amit4 php</title></head>-->
+<!--<body>-->
+
+<!--<?php-->
+  	<!--# operator-->
+	<!--print "<h2>php program to add two numbers...</h2><br />";-->
+<!--$val1 = 20;-->
+<!--$val2 = 20;-->
+<!--$sum = $val2 + $val2;   /* Assignment operator */-->
+<!--echo "Result(SUM): $sum";-->
+<!--?>-->
+
+<!--</body>-->
+<!--</html>-->
+
+
+
+<!--<?php-->
+<!--$errors = '';-->
+<!--$myemail = 'shiwangi@iternia.com';-->
+<!--if(empty($_POST['name'])  ||-->
+   <!--empty($_POST['email']) ||-->
+   <!--empty($_POST['message']))-->
+<!--{-->
+    <!--$errors .= "\n Error: all fields are required";-->
+<!--}-->
+<!--$name = $_POST['name'];-->
+<!--$email_address = $_POST['email'];-->
+<!--$message = $_POST['message'];-->
+<!--if (!preg_match(-->
+<!--"/ ^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,3})$/i",-->
+<!--$email_address))-->
+<!--{-->
+    <!--$errors .= "\n Error: Invalid email address";-->
+<!--}-->
+<!--if( empty($errors))-->
+<!--{-->
+    <!--$to = '$myemail';-->
+    <!--$email_subject = "Contact form submission: $name";-->
+    <!--$email_body = "You have received a new message. ".-->
+        <!--" Here are the details:\n Name: $name \n ".-->
+        <!--"Email: $email_address\n Message \n $message";-->
+    <!--$headers = "From: $myemail\n";-->
+    <!--$headers .= "Reply-To: $email_address";-->
+    <!--mail($to,$email_subject,$email_body,$headers);-->
+    <!--//redirect to the 'thank you' page-->
+    <!--header('Location: contact-form-thank-you.html');-->
+<!--}-->
+<!--?>-->
+
+
+<!--<form method="POST" name="contactform" >-->
+    <!--<p>-->
+        <!--<label for='name'>Your Name:</label>-->
+        <!--<br>-->
+        <!--<input type="text" name="name">-->
+    <!--</p>-->
+    <!--<p>-->
+        <!--<label for='email'>Email Address:</label>-->
+        <!--<br>-->
+        <!--<input type="text" name="email">-->
+        <!--<br>-->
+    <!--</p>-->
+    <!--<p>-->
+        <!--<label for='message'>Message:</label>-->
+        <!--<br>-->
+        <!--<textarea name="message"></textarea>-->
+    <!--</p>-->
+    <!--<input type="submit" value="Submit">-->
+    <!--<br>-->
+<!--</form>-->
+
+
+
+
+
+<?php
+if($_POST["write"]) {
+    mail("shiwangi@iternia.com", "Form to email message", $_POST["write"], "From: shivangee.p@gmail.com");
+}
+?>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>Mindrose</title>
+
+    <!-- Bootstrap -->
+    <link href="css/style.css" rel="stylesheet">
+
+    <!-- favicon -->
+    <link rel="icon" href="images/favicon.ico">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <script type="text/javascript">
+        var activeMenu = '.nav-seventh';
+        var switchTo5x=true;
+    </script>
+</head>
+<body id="body">
+
+<!--#include virtual="inc-header.shtml" -->
+<section class="contact-us-content">
+    <div class="content-wrapper">
+        <div class="container">
+            <div class="top-wrapper">
+                <!--<h1>Get in Touch</h1>-->
+                <h3>Interested in working together? Contacting us is easy, simply fill out the form below and our
+                    form delivery unicorn will deliver it to us right away.</h3>
+            </div>
+            <div class="bottom-wrapper clearfix">
+                <div class="content col-xs-12 col-sm-4">
+                    <p>
+                        5, Gulmohar Court,<br/>
+                        Lane B, Koregaon Park, <br/>
+                        Pune, Maharashtra 411001
+                    </p>
+                    <h3>
+                        Phone:
+                    </h3>
+                    <p>
+                        020 - 30524986
+                    </p>
+                    <h3>
+                        Business Enquiry:
+                    </h3>
+                    <p>
+                        989 0007 457
+                    </p>
+                    <!--<h3>-->
+                    <!--Email:-->
+                    <!--</h3>-->
+                    <!--<p>-->
+                    <!--anil@mindrose.com-->
+                    <!--</p>-->
+                </div>
+                <div class="employee_form col-xs-12 col-sm-8">
+                    <form name="contactusfrm" method="post" onsubmit="return(validate());" action="form-to-email.php">
+                        <div class="form-group">
+                            <input type="name" name="Name" class="form-control" id="exampleInputName" placeholder="Full Name">
+                        </div>
+                        <div class="form-group clearfix">
+                            <input type="designation" name="Designation" class="form-control form col-xs-12 col-sm-6" id="exampleInputDesignation" placeholder="Designation">
+                            <input type="organization" name="Organization" class="form-control form-control1 form-control2 col-xs-12 col-sm-6" id="exampleInputOrganization" placeholder="Organization">
+                            <!--<input type="industry" class="form-control form-control1 col-sm-6" id="exampleInputIndustry" placeholder="Industry Type">-->
+                            <!--<select class="form-control form-control1 col-xs-12 col-sm-6">-->
+                            <!--<option>Industry Type</option>-->
+                            <!--<option>1</option>-->
+                            <!--<option>2</option>-->
+                            <!--<option>3</option>-->
+                            <!--<option>4</option>-->
+                            <!--</select>-->
+                        </div>
+                        <div class="form-group clearfix">
+                            <!--<input type="noemp" class="form-control" id="exampleInputNoEmp" placeholder="No. of Employees">-->
+                            <select name="Employees" id="Employees" class="form-control form col-xs-12 col-sm-6">
+                                <option value="-1">No. of Employees</option>
+                                <option value="1">0-50</option>
+                                <option value="2">50-200</option>
+                                <option value="3">200-500</option>
+                                <option value="4">500-1000</option>
+                                <option value="5">1000+</option>
+                            </select>
+                            <select class="form-control form-control1 col-xs-12 col-sm-6" name="Industry" id="Industry">
+                                <option value="-1">Industry Type</option>
+                                <option value="1">Business Services</option>
+                                <option value="2">Consumer Services</option>
+                                <option value="3">Information Technology</option>
+                                <option value="4">Manufacturing</option>
+                                <option value="5">Hospitality</option>
+                                <option value="6">Media</option>
+                                <option value="7">Financial Services</option>
+                                <option value="8">Medical & Related</option>
+                                <option value="9">Government</option>
+                                <option value="10">Non-Government</option>
+                                <option value="11">Other</option>
+                            </select>
+                        </div>
+                        <div class="form-group form-group1">
+                            <!--<input type="text" name="write" class="form-control" id="exampleInputWrite" placeholder="What got you interested in us?">-->
+                            <textarea name="Write" class="write" id="" cols="72" rows="5" placeholder="What got you interested in us?"></textarea>
+                        </div>
+                        <button type="submit" class="btn btn-default">SUBMIT</button>
+                    </form>
+                    <img src="images/contact-us.png" class="img-responsive" alt="contact-us">
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<!--#include virtual="inc-footer.shtml" -->
+
+<!-- JS -->
+
+<script language="JavaScript">
+    <!--
+
+    function validate(){
+        if (document.contactusfrm.Name.value=="") {
+            alert("Please Enter Your Name.");
+            document.contactusfrm.Name.focus();
+            return false;
+        }
+        if (document.contactusfrm.Designation.value=="") {
+            alert("Please Enter Your Designation.");
+            document.contactusfrm.Designation.focus();
+            return false;
+        }
+        if (document.contactusfrm.Organization.value=="") {
+            alert("Please Enter Your Organization.");
+            document.contactusfrm.Organization.focus();
+            return false;
+        }
+        if (document.contactusfrm.write.value=="") {
+            alert("Please Enter Valid Information.");
+            document.contactusfrm.write.focus();
+            return false;
+        }
+        if( document.contactusfrm.Employees.value == "-1" )
+        {
+            alert( "Please Enter No. Of Employees. If not applicable select 0-50." );
+            return false;
+        }
+        if( document.contactusfrm.Industry.value == "-1" )
+        {
+            alert( "Please Enter Industry Type. If not applicable select other." );
+            return false;
+        }
+//        if (document.contactusfrm.Industry.value=="") {
+//            alert("Please Your Organization.");
+//            document.contactusfrm.Industry.focus();
+//            return false;
+//        }
+//        if (document.contactusfrm.Industry.value=="") {
+//            alert("Please Your Organization.");
+//            document.contactusfrm.Industry.focus();
+//            return false;
+//        }
+        return true;
+
+    }
+
+
+    //-->
+</script>
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="js/bootstrap.min.js"></script>
+<script src="js/script.js"></script>
+</body>
+</html>

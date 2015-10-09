@@ -1,0 +1,14 @@
+<footer>
+<span>
+    <!--Copyright © 2015 mindrose.com — All Rights Reserved-->
+    Copyright © 2015 Mindrose Technology Solutions — All Rights Reserved
+</span>
+    <div class="social-icons">
+        <ul class="list-inline">
+            <li><a href="https://www.facebook.com/groups/mindrose" class="icon-facebook" target="_blank"></a></li>
+            <li><a href="https://twitter.com/talentrio" class="icon-twitter" target="_blank"></a></li>
+            <li><a href="https://www.linkedin.com/today/author/2419328" class="icon-linkedin-with-circle" target="_blank"></a></li>
+            <li><a href="https://www.youtube.com/embed/VdVvmVG3zJk?rel=0" class="icon-youtube-with-circle" target="_blank"></a></li>
+        </ul>
+    </div>
+</footer>

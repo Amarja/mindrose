@@ -1,0 +1,143 @@
+<header class="clearfix">
+    <div class="logo pull-left col-md-2">
+        <a href="index.shtml"><img src="images/Mindroselogo1.jpg" alt="Mindrose Logo"/></a>
+    </div>
+    <!--<div class="main-nav">-->
+        <!--<nav class="navbar navbar-inverse navbar-fixed-top">-->
+            <!--<div class="navbar-header">-->
+
+                <!--<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">-->
+                    <!--<span class="icon-bar"></span>-->
+                    <!--<span class="icon-bar"></span>-->
+                    <!--<span class="icon-bar"></span>-->
+                <!--</button>-->
+            <!--</div>-->
+            <!--<div class="navbar-collapse collapse">-->
+                <!--<ul class="nav navbar-nav">-->
+
+                    <!--<li><a href="index.shtml">Home</a></li>-->
+                    <!--<li><a href="rejoy-framework.shtml">Rejoy Framework-->
+                        <!--<span>People centric approach to ignite potential in the organization</span>-->
+                    <!--</a></li>-->
+                    <!--<li><a href="implement.shtml">IMPLEMENT-->
+                        <!--<span>Awaken, Nurture and Sustain transformation for Joyous growth</span>-->
+                    <!--</a></li>-->
+                    <!--<li><a href="#">Rejoy CXO Retreat-->
+                        <!--<span>One day program to awaken a new way to ignite potential</span>-->
+                    <!--</a></li>-->
+                    <!--<li><a href="consulting.shtml">CONSULTING-->
+                        <!--<span>Aligning and Activating all parts of the people puzzle</span>-->
+                    <!--</a></li>-->
+                    <!--<li><a href="#">RESOURCES-->
+                        <!--<span>Ideas and Tools for your journey</span>-->
+                    <!--</a></li>-->
+                    <!--<li><a href="#">ABOUT MINDROSE-->
+                        <!--<span>What we believe</span>-->
+                    <!--</a></li>-->
+                    <!--<li><a href="#">CONTACT US-->
+                        <!--<span>Start the magic</span>-->
+                    <!--</a></li>-->
+
+                <!--</ul>-->
+                <!--<ul class="social-icon list-inline">-->
+                    <!--<li>FOLLOW US ON:</li>-->
+                    <!--<li><a href="#" class="icon-facebook"></a></li>-->
+                    <!--<li><a href="#" class="icon-twitter"></a></li>-->
+                    <!--<li><a href="#" class="icon-youtube-with-circle"></a></li>-->
+                <!--</ul>-->
+                <!--<a href="#" class="icon-icon_alert_close" type="button" data-toggle="collapse"-->
+                   <!--data-target=".navbar-collapse"></a>-->
+
+            <!--</div>-->
+        <!--</nav>-->
+
+    <!--</div>-->
+   <!--<div class="box-main-nav">-->
+
+       <!--<a type="button" class=" btn-hamburger" data-toggle="modal" data-target="#myModal"></a>-->
+       <!--<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">-->
+           <!--<div class="modal-dialog">-->
+               <!--<div class="modal-content">-->
+                   <!--<div class="modal-header">-->
+                       <!--<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>-->
+
+                   <!--</div>-->
+                   <!--<div class="modal-body">-->
+                       <!--<ul class="nav">-->
+
+                       <!--<li><a href="index.shtml">Home</a></li>-->
+                       <!--<li><a href="rejoy-framework.shtml">Rejoy Framework-->
+                       <!--<span>People centric approach to ignite potential in the organization</span>-->
+                       <!--</a></li>-->
+                       <!--<li><a href="implement.shtml">IMPLEMENT-->
+                       <!--<span>Awaken, Nurture and Sustain transformation for Joyous growth</span>-->
+                       <!--</a></li>-->
+                       <!--<li><a href="rejoy-cxo-retreat.shtml">Rejoy CXO Retreat-->
+                       <!--<span>One day program to awaken a new way to ignite potential</span>-->
+                       <!--</a></li>-->
+                       <!--<li><a href="consulting.shtml">CONSULTING-->
+                       <!--<span>Aligning and Activating all parts of the people puzzle</span>-->
+                       <!--</a></li>-->
+                       <!--<li><a href="#">RESOURCES-->
+                       <!--<span>Ideas and Tools for your journey</span>-->
+                       <!--</a></li>-->
+                       <!--<li><a href="about-us.shtml">ABOUT MINDROSE-->
+                       <!--<span>What we believe</span>-->
+                       <!--</a></li>-->
+                       <!--<li><a href="contact-us.shtml">CONTACT US-->
+                       <!--<span>Start the magic</span>-->
+                       <!--</a></li>-->
+
+                       <!--</ul>-->
+                       <!--<ul class="social-icon list-inline">-->
+                       <!--<li>FOLLOW US ON:</li>-->
+                       <!--<li><a href="#" class="icon-facebook"></a></li>-->
+                       <!--<li><a href="#" class="icon-twitter"></a></li>-->
+                       <!--<li><a href="#" class="icon-youtube-with-circle"></a></li>-->
+                       <!--</ul>-->
+                   <!--</div>-->
+
+               <!--</div>-->
+           <!--</div>-->
+       <!--</div>-->
+   <!--</div>-->
+
+
+    <nav class="navbar navbar-default col-md-10">
+        <div class="container-fluid">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse main-header" id="bs-example-navbar-collapse-1">
+                <ul  class="nav navbar-nav navbar-right">
+                    <!--<li><a href="index.shtml">HOME</a></li>-->
+                    <li class="nav-first"><a href="rejoy-framework.shtml">FRAMEWORK
+                    </a></li>
+                    <li class="nav-second"><a href="implement.shtml">IMPLEMENT
+                    </a></li>
+                    <li class="nav-third"><a href="rejoy-cxo-retreat.shtml">CXO RETREAT
+                    </a></li>
+                    <li class="nav-fourth"><a href="consulting.shtml">CONSULTING
+                    </a></li>
+                    <li class="nav-fifth"><a href="https://www.linkedin.com/today/author/2419328" target="_blank">BLOG
+                    </a></li>
+                    <li class="nav-sixth"><a href="about-us.shtml">ABOUT
+                    </a></li>
+                    <li class="nav-seventh"><a href="contact-us.shtml">CONTACT US
+                    </a></li>
+                </ul>
+            </div><!-- /.navbar-collapse -->
+        </div><!-- /.container-fluid -->
+    </nav>
+
+
+
+</header>

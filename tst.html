@@ -1,0 +1,71 @@
+<html>
+
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <style>
+
+        .accordion {width: 480px; border-bottom: solid 1px #c4c4c4;}
+
+        .accordion h2 {background: #e9e7e7 url(images/arrow-image.png) no-repeat right -51px; padding: 7px 15px; margin: 0; border: solid 1px #c4c4c4; border-         bottom: none;      cursor: pointer;}
+
+        .accordion h2:hover {background-color: #e3e2e2;}
+
+        .accordion h2.active {background-position: right 5px;}
+
+        .accordion p {background: #f7f7f7; margin: 0; padding: 10px 15px 20px; border-left: solid 1px #c4c4c4; border-right: solid 1px #c4c4c4;}
+
+    </style>
+    <script>
+
+        $(document).ready(function(){
+
+            $(".accordion h2:first").addClass("active");
+
+            $(".accordion p:not(:first)").hide();
+
+            $(".accordion h2").click(function(){
+
+                $(this).next("p").slideToggle("slow")
+
+                        .siblings("p:visible").slideUp("slow");
+
+                $(this).toggleClass("active");
+
+                $(this).siblings("h2").removeClass("active");
+
+            });
+
+        });
+
+    </script>
+</head>
+
+<body>
+
+<div class="accordion">
+
+    <h2>Question One Sample Text</h2>
+
+    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi malesuada, ante at feugiat tincidunt, enim massa gravida metus, commodo lacinia massa         diam veleros. Proin eget urna. Nunc fringilla neque vitae odio. Vivamus vitae ligula.</p>
+
+    <h2>This is Question Two</h2>
+
+    <p style="display: none;">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi malesuada, ante at feugiat tincidunt, enim massa gravida metus,           commodo lacinia massa diam vel eros. Proin eget urna. Nunc fringilla neque vitae odio. Vivamus vitae ligula.</p>
+
+    <h2>Another Questio here</h2>
+
+    <p style="display: none;">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi malesuada, ante at feugiat tincidunt, enim massa gravida metus,           commodo lacinia massa diam vel eros. Proin eget urna. Nunc fringilla neque vitae odio. Vivamus vitae ligula.</p>
+
+    <h2>Sample heading</h2>
+
+    <p style="display: none;">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi malesuada, ante at feugiat tincidunt, enim massa gravida metus,           commodo lacinia massa diam vel eros. Proin eget urna. Nunc fringilla neque vitae odio. Vivamus vitae ligula.</p>
+
+    <h2>Sample Question Heading</h2>
+
+    <p style="display: none;">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi malesuada, ante at feugiat tincidunt, enim massa gravida metus,            commodo lacinia massa diam vel eros. Proin eget urna. Nunc fringilla neque vitae odio. Vivamus vitae ligula.</p>
+
+</div>
+
+</body>
+
+</html>

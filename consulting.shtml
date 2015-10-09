@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Mindrose</title>
+
+    <!-- css -->
+    <link href="css/style.css" rel="stylesheet">
+
+    <!-- favicon -->
+    <link rel="icon" href="images/favicon.ico">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <script type="text/javascript">
+        var activeMenu = '.nav-fourth';
+        var switchTo5x=true;
+    </script>
+</head>
+<body id="body">
+
+<!--#include virtual="inc-header.shtml" -->
+
+<section class="inside-content box-consulting-wrapper">
+    <div class="banner-wrapper box4">
+        <div class="container">
+            <div class="box-caption">
+                <h2>Consulting</h2>
+
+                <p>Where we engage with CXOs to help in Organizational Transformation.</p>
+            </div>
+        </div>
+
+    </div>
+
+    <div class="box-content-wrapper">
+        <div class="container">
+            <h1 class="organizational-title">
+                Organizational Culture Study
+            </h1>
+
+            <p>Organizational culture is made of many layers but it starts with strength and cohesiveness of Vision,
+                Purpose and Values and then gets into the day-to-day aspects of what motivates the employees and the way
+                the organization relates to all its constituents. It also includes how employees are treated and how
+                they work with each other. Add to all this, there is also an aspect of the “vision and execution
+                horizon” that drives the employees and organization.</p>
+            <div class="box-listing row">
+                <div class="row">
+                    <div class="box-list col-xs-12 col-sm-5 col-md-5 ">
+                    <h3>Areas covered:</h3>
+                    <ul class="list-unstyled">
+                        <li>Strength of Vision, Values and Purpose</li>
+                        <li>Organization and Employee Relationship</li>
+                        <li>Employees Alignment to Vision and Values</li>
+                        <li>Adaptability and Resilience</li>
+                        <li>Growth and Learning Orientation</li>
+                        <li>Leadership and Managerial Depth</li>
+                    </ul>
+                </div>
+                <div class="box-list col-xs-12 col-sm-7 col-md-7">
+                    <h3>Methodology:</h3>
+                    <ul class="list-unstyled">
+                        <li>Discussions with Senior Management</li>
+                        <li>High level review of current People Processes</li>
+                        <li>Discussions with select Mid-level managers</li>
+                        <li>Discussions with select employees</li>
+                        <li>Anonymous Survey of employees</li>
+                    </ul>
+                </div>
+
+                </div>
+
+                <div class="box-list box-output">
+                    <h3>Output:</h3>
+                    <ul class="list-unstyled">
+                        <li>Overall Leadership and Management Philosophy</li>
+                        <li>Positives and Negatives about the culture</li>
+                        <li>High level recommendation around shift in management style</li>
+                        <li>High level recommendations around People processes</li>
+                        <li>A roadmap for initiatives that can be taken on</li>
+                    </ul>
+                </div>
+
+            </div>
+
+
+        </div>
+        <div class="box-gray-bg box-values-def">
+            <div class="container">
+                <h1>Values Definition, Alignment and Empowering Vision</h1>
+<p>The first of the nine boxes of our framework is “Awakening the leadership”.  In this first step the focus is laid on understanding the leadership team and creating Empowering Leadership Vision.</p>
+
+   <p> When it comes to organizational effectiveness and dynamism, leadership’s vision is one of the key enablers, yet everywhere we see companies either providing lip service to this aspect or simply being lost on what really means to provider a vision that empowers.</p>
+            <div class="content-wrap row">
+                 <div class="col-xs-12 col-sm-6">
+                    <p>
+                        An Idea can change your life, is not just a like from a mobile companies ad campaign, it is one of the most powerful human abilities.  This is an ability to unleash infinite potential simply through an idea.  If it did not have the potential, it would never be possible for a simple man like Gandhi to drive out British rulers, and for Nelson Mandela to overcome apartheid.</p>
+
+                       <p> So what is possible in the business world with an empowering vision?  How can we create such vision for our organizations? It all begins with understanding oneself (leadership) and working in alignment with our true self.</p>
+
+                      <p>  This is not done directly but is done through helping leadership understand themselves as individuals and work in alignment with their true self.
+                    </p>
+            </div>
+                <div class="col-xs-12 col-sm-6">
+<p>During this exercise there are opportunities to question and clarify beliefs and create new perspective of looking at business as an integrated part of the person and not something that is done in isolation from the individual’s belief system. An empowering vision also has to create:</p>
+
+               <dl>
+                   <dt>
+                       Opportunity:
+                   </dt>
+                   <dd>
+                       to self express and create value
+                   </dd>
+                   <dt>
+                       Accountability:
+                   </dt>
+                   <dd>
+                       space to take ownership (this is not responsibility or duty)
+                   </dd>
+                   <dt>
+                       Alignment:
+                   </dt>
+                   <dd>
+                       with the company and personal goals
+                   </dd>
+                   <dt>
+                       Energizing:
+                   </dt>
+                   <dd>
+                       have a larger purpose and human connect
+                   </dd>
+               </dl>
+
+
+                </div>
+            </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <h1>Leadership Alignment and Cohesion</h1>
+            <p>After having clarity of vision, the most important success factor is leadership alignment and cohesion.  Is everyone in the leadership team seeing and pulling in the same direction? Does everyone understand their strengths? and Do they clearly see how their strengths fit with others strengths?</p>
+
+            <p>The upfront time spent to create alignment and cohesion pays off for a long period through reduction of friction, better synergy and almost effortless progress towards goals.  </p>
+        <p><span>Here are three phases we use:</span></p>
+<div class="box-phrases">
+    <h2>Stage 1 - Cultivating Organic Leadership Mechanism</h2>
+<p>Your company requires a style of dynamic leadership based on deep understanding and intelligence and not on fixed management structures. In this way of leadership, appropriate person, most suited for that moment, assumes the charge,  and hence the leadership is flexible and dynamically evolves with the circumstances. The key requirement to develop such a way of organic leadership is the deep mutual understanding based on the real character of each team member, devoid of prejudices and ego tussles. Stage one is about developing understanding among core team members based on mutual respect and admiration. In this stage, every member of the team will be invited to present his own strength and weaknesses. His set of strengths and weaknesses will also be presented by each of the other core members. This will allow us to identify the gaps in mutual understanding. Objective of this stage is to develop harmony among all team members and resolve all the obstacles in mutual relationships. This stage may require up to 3 sessions of 3 hours each. </p>
+
+<h2>Stage 2: Crystallizing the Empowering Vision</h2>
+    <p>Once the set of strengths and weaknesses are harmonized among the key team members, stage is set to understand the prominent core competencies of the company. In this stage, we define the key foresights and insights of the whole eco system in which company is operating and derive an empowering vision for the company. Then this vision is analyzed in deep details to understand the required core competencies to develop practical strategies so as to accomplish this vision at fast pace. Gaps in terms of competencies are identified and a strategy is developed to either fill these gaps from within the team or acquire it from outside. This stage is likely to require 2 sessions of 3 hours each.</p>
+
+    <h2>Stage 3: Empowering the Key Team Members</h2>
+    <p>Once an empowering company vision is crystallized, the next exercise is to define the roles of each key member in organic fashion, which will evolve in tune with the evolving eco system. Missing factors are also identified for each key team member and a strategy is formulated so that he can work on providing what is missing in him. At the end of this exercise each team member will have a clear idea of what his own evolution path is. Each member will also be aware of the various methods to develop these key competences within himself. This stage is likely to require 2 sessions of 3 hours each. </p>
+</div>
+
+        </div>
+
+        <div class="box-gray-bg box-employee-recognition">
+            <div class="container">
+                <h1>Employee Engagement and Recognition</h1>
+                <p><span class="quote">“Deep down you know that there is a better way to run a business, a team, a company, a department. You’ve always known it.”</span></p>
+           <span class="name">– Richard Sheridan, Joy Inc.</span>
+<div class="row content-wrap">
+
+    <div class="col-xs-12 col-sm-6">
+<p>One of the most amazing and happy sight is watching kids play with legos or some toys where they can be creative.  Kids natural enjoy the process and are fluid in how they go about creating various things in the process.  They are not worried about being wrong nor are they trying to please someone else or seeking constant approval of what they are doing.  They are simply in the flow and joyously being creative.</p>
+
+   <p> Now imagine, if we brought that natural flow quality in the work we did in our profession.  Would it not completely change our effectiveness and happiness? Over the years though with industrialization we have taken the joy out of the work and mechanized it to the point of leaving no room for human creativity or ingenuity.</p>
+
+   <p> We have created processes and rules to control things. We have made work just a means to earn a living and stripped it of the fulfillment that creativity and contribution brings to us.  For the purpose of scaling and consistency we have taken the human touch and impact out and made things sterile like a recorded customer service line.</p>
+
+   <p> With the world economies becoming more and more knowledge, information and service driven, there is a tremendous opportunity to create thriving businesses by bringing joy back to work.  Today joy is not just really a hygiene factor to keep employees happy but it really is the source of competitive differentiation. </p>
+    </div>
+
+    <div class="col-xs-12 col-sm-6">
+<p>Today, there are stories such as Zappos - a company built on the principles of “delivering happiness” to the customers through first keeping the employees happy and engaged.</p>
+
+        <p> ‘JOY’ at work does not mean fun. It is not just about playing ‘Paintball’ and ‘Laser Tag’ during work hours and then carrying the work bundle back home. Bringing joy back to work is about creating a work environment that brings the best out of each and everyone.  Where everyone is aligned to and energized by the higher purpose of the organization.  Where managers and processes are enablers and servant of the employees who is working to deliver delightful results.  It is about being able to reach a higher level of our potential and using it to contribute to better our own life, the customer happiness, the company and the community.</p>
+   <span class="joy">Joy then to us is ‘Meaning’+’Empowerment’+’Contribution’.</span>
+    </div>
+</div>
+            </div>
+        </div>
+    </div>
+
+
+</section>
+<!--#include virtual="inc-footer.shtml" -->
+
+<!-- JS -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/script.js"></script>
+</body>
+</html>

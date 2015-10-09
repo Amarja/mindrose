@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Mindrose</title>
+
+    <!-- css -->
+    <link href="css/style.css" rel="stylesheet">
+
+    <!-- favicon -->
+    <link rel="icon" href="images/favicon.ico">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <script type="text/javascript">
+        var activeMenu = '.nav-first';
+        var switchTo5x=true;
+    </script>
+</head>
+<body id="body">
+
+<!--#include virtual="inc-header.shtml" -->
+
+<section class="inside-content box-rejoy-framework">
+    <div class="banner-wrapper box1">
+        <div class="container">
+            <div class="box-caption">
+                <h1>ReJoy Framework</h1>
+
+                <p>ReJoy is a people-centric framework to tap the creative potential of your team. It is rooted in
+                    neurology, sociology and spiritual concepts that truly and deeply motivate and drive us as
+                    humans.</p>
+            </div>
+        </div>
+
+    </div>
+    <div class="caption-wrapper">
+        Our Rejoy framework clearly lays out how we can ignite potential
+        in the organization by putting individual's joy at the center.
+
+    </div>
+    <div class="image-wrap">
+        <img src="images/rejoy-frm.png" class="img-responsive" alt=""/>
+    </div>
+
+    <div class="box-content">
+        <div class="container framework-container">
+            <div class="media-wrap">
+                <div class="col-xs-12 col-sm-4 col-md-4 img-wrap visible-xs">
+                    <img src="images/empowering-vision.png" alt=""/>
+                </div>
+                <div class="col-sm-offset-2 col-xs-12 col-sm-6 col-md-6 content-wrap">
+                    <h2>
+                        Creating an empowering Vision
+                    </h2>
+
+                    <p>A clear vision that resonates with people, creates sustained motivation and unleashes everyone's
+                        creative intelligence. A strong vision reduces the long-term managerial overheads and
+                        channelizes that saved energy for creative purposes.</p>
+                </div>
+                <div class="col-xs-12 col-sm-4 col-md-4 img-wrap hidden-xs">
+                    <img src="images/empowering-vision.png" alt=""/>
+                </div>
+            </div>
+
+            <div class="media-wrap">
+                <div class="col-sm-offset-2 col-xs-12 col-sm-4 col-md-3 img-wrap">
+                    <img src="images/culture-connectedness.png" alt=""/>
+                </div>
+                <div class=" col-xs-12 col-sm-6 col-md-7 content-wrap culture-wrap">
+                    <h2>
+                        Culture of Connectedness and Joy
+
+                    </h2>
+
+                    <p>Most of the creative power comes from how people connect with one another at work. People can connect on; an impersonal, to-the-point and functional level in a non-cooperative way or they can connect in a trusting, joyous and supportive way.</p>
+                </div>
+
+            </div>
+
+            <div class="media-wrap">
+                <div class="col-xs-12 col-sm-4 col-md-4 img-wrap visible-xs">
+                    <img src="images/enabling-process.png" alt=""/>
+                </div>
+                <div class="col-sm-offset-2 col-xs-12 col-sm-6 col-md-6 content-wrap">
+                    <h2>
+                        Enabling Processes
+                    </h2>
+
+                    <p>As companies grow they tend to add processes and controls that eat away the motivation and creative potential of people. The people processes need to be rewired as an enabling tool in their hands and should not be like handcuffs.</p>
+                       <p> Processes should be designed with the prime goal of increasing individual motivation through sense of autonomy and support for mastery.</p>
+                </div>
+                <div class="col-xs-12 col-sm-4 col-md-4 img-wrap hidden-xs">
+                    <img src="images/enabling-process.png" alt=""/>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--#include virtual="inc-footer.shtml" -->
+
+<!-- JS -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/script.js"></script>
+
+</body>
+</html>
